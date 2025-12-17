@@ -1,0 +1,49 @@
+name,title,company,email,phone,person_location,company_hq,recent_publication,publication_year,funding_stage,uses_3d_models,in_biotech_hub
+Dr. Sarah Chen,Director of Toxicology,Moderna,sarah.chen@modernatx.com,617-555-0123,Remote - Colorado,Cambridge MA,Drug-Induced Liver Injury using 3D Hepatocytes,2024,Public,Yes,Yes
+Dr. John Smith,Head of Preclinical Safety,Pfizer,j.smith@pfizer.com,,New York NY,New York NY,3D Cell Models for Safety Assessment,2023,Public,Yes,Yes
+Dr. Maria Garcia,VP Safety Assessment,Genentech,,,San Francisco CA,San Francisco CA,,,Public,Yes,Yes
+Dr. James Wilson,Senior Toxicologist,Novartis,j.wilson@novartis.com,862-555-0456,Remote - Florida,Cambridge MA,,,Public,No,Yes
+Dr. Emily Brown,Principal Scientist - Hepatic Models,AstraZeneca,emily.brown@astrazeneca.com,302-555-0789,Wilmington DE,Wilmington DE,Hepatic Spheroids for DILI Prediction,2024,Public,Yes,No
+Dr. Michael Rodriguez,Director of Drug Safety,Bristol Myers Squibb,,,Princeton NJ,New York NY,,,Public,,Yes
+Dr. Lisa Anderson,Head of DMPK and Toxicology,Gilead Sciences,l.anderson@gilead.com,650-555-0234,Foster City CA,Foster City CA,,,Public,Yes,Yes
+Dr. Robert Taylor,Associate Director - Safety Sciences,Merck,robert.taylor@merck.com,,Rahway NJ,Rahway NJ,,,Public,Yes,Yes
+Dr. Jennifer Martinez,Senior Director Toxicology,Amgen,j.martinez@amgen.com,805-555-0567,Remote - Texas,Thousand Oaks CA,Organ-on-Chip Technology for Toxicology,2024,Public,Yes,Yes
+Dr. David Lee,VP Preclinical Development,Regeneron,,,Tarrytown NY,Tarrytown NY,,,Public,,Yes
+Dr. Patricia White,Principal Scientist - In Vitro Models,Vertex Pharmaceuticals,p.white@vrtx.com,617-555-0890,Boston MA,Boston MA,3D Liver Models for Drug Screening,2023,Public,Yes,Yes
+Dr. Christopher Harris,Director of Investigative Toxicology,Biogen,,,Cambridge MA,Cambridge MA,,,Public,Yes,Yes
+Dr. Amanda Clark,Head of Safety Pharmacology,Takeda,a.clark@takeda.com,617-555-0345,Cambridge MA,Cambridge MA,,,Public,No,Yes
+Dr. Daniel Lewis,Senior Toxicologist,Eli Lilly,d.lewis@lilly.com,,Indianapolis IN,Indianapolis IN,,,Public,Yes,No
+Dr. Michelle Walker,Director of Preclinical Safety,Sanofi,m.walker@sanofi.com,908-555-0678,Remote - Georgia,Bridgewater NJ,Hepatotoxicity Assessment using NAMs,2024,Public,Yes,Yes
+Dr. Kevin Hall,VP Drug Safety Evaluation,Johnson & Johnson,,,New Brunswick NJ,New Brunswick NJ,,,Public,,Yes
+Dr. Laura Allen,Associate Director - Hepatotoxicity,Roche,l.allen@roche.com,650-555-0901,South San Francisco CA,Basel Switzerland,Advanced 3D Models for Liver Toxicity,2023,Public,Yes,Yes
+Dr. Steven Young,Principal Scientist - 3D Cell Culture,Bayer,s.young@bayer.com,,Remote - North Carolina,Whippany NJ,,,Public,Yes,Yes
+Dr. Karen King,Director of ADME/Tox,AbbVie,k.king@abbvie.com,847-555-0123,North Chicago IL,North Chicago IL,,,Public,No,No
+Dr. Brian Wright,Head of Safety Assessment,Celgene,,,Summit NJ,Summit NJ,In Vitro Liver Models for Preclinical Safety,2024,Public,Yes,Yes
+Dr. Jessica Scott,Senior Director - Toxicology,Alexion,j.scott@alexion.com,475-555-0456,Boston MA,Boston MA,,,Public,,Yes
+Dr. Thomas Green,Director of In Vitro Toxicology,Incyte,t.green@incyte.com,,Wilmington DE,Wilmington DE,3D Hepatocyte Cultures for Toxicity Testing,2023,Public,Yes,No
+Dr. Nicole Adams,VP Safety Sciences,Alnylam,n.adams@alnylam.com,617-555-0789,Cambridge MA,Cambridge MA,,,Series D,Yes,Yes
+Dr. Ryan Baker,Principal Toxicologist,Biohaven,,,New Haven CT,New Haven CT,,,Series C,,No
+Dr. Stephanie Nelson,Director of Drug Safety,Kite Pharma,s.nelson@kitepharma.com,310-555-0234,Santa Monica CA,Santa Monica CA,,,Public,No,Yes
+Dr. Eric Carter,Head of Preclinical Research,Bluebird Bio,e.carter@bluebirdbio.com,,Cambridge MA,Cambridge MA,Microphysiological Systems for Drug Testing,2024,Public,Yes,Yes
+Dr. Rachel Mitchell,Senior Scientist - Liver Models,Editas Medicine,r.mitchell@editasmedicine.com,617-555-0567,Cambridge MA,Cambridge MA,,,Series C,Yes,Yes
+Dr. Jason Perez,Director of Safety Pharmacology,Intellia Therapeutics,,,Cambridge MA,Cambridge MA,,,Series D,,Yes
+Dr. Ashley Roberts,VP Toxicology and DMPK,Spark Therapeutics,a.roberts@sparktx.com,215-555-0890,Philadelphia PA,Philadelphia PA,,,Public,Yes,No
+Dr. Matthew Turner,Principal Investigator - Hepatic Safety,CRISPR Therapeutics,m.turner@crisprtx.com,,Remote - Washington,Cambridge MA,DILI Prediction using 3D Liver Organoids,2024,Public,Yes,Yes
+Dr. Samantha Phillips,Director of Preclinical Safety,Beam Therapeutics,s.phillips@beamtx.com,617-555-0345,Cambridge MA,Cambridge MA,,,Series C,No,Yes
+Dr. Brandon Campbell,Head of In Vitro Toxicology,Verve Therapeutics,,,Cambridge MA,Cambridge MA,,,Series B,Yes,Yes
+Dr. Rebecca Parker,Senior Director - Drug Safety,Prime Medicine,r.parker@primemedicine.com,617-555-0678,Cambridge MA,Cambridge MA,Advanced In Vitro Models for Gene Editing Safety,2023,Series B,Yes,Yes
+Dr. Justin Evans,Director of Safety Assessment,Mammoth Biosciences,j.evans@mammoth.bio,,South San Francisco CA,Brisbane CA,,,Series C,,Yes
+Dr. Melissa Edwards,VP Preclinical Development,Caribou Biosciences,m.edwards@cariboubio.com,510-555-0901,Berkeley CA,Berkeley CA,,,Series B,Yes,Yes
+Dr. Andrew Collins,Principal Scientist - 3D Models,Graphite Bio,,,South San Francisco CA,South San Francisco CA,,,Series A,Yes,Yes
+Dr. Christina Stewart,Director of Investigative Toxicology,Metagenomi,c.stewart@metagenomi.co,510-555-0123,Emeryville CA,Emeryville CA,3D Tissue Models for CRISPR Safety,2024,Series B,Yes,Yes
+Dr. Joshua Sanchez,Head of Safety Pharmacology,Poseida Therapeutics,,,San Diego CA,San Diego CA,,,Public,,Yes
+Dr. Angela Morris,Senior Toxicologist,Sana Biotechnology,a.morris@sana.com,206-555-0456,Seattle WA,Seattle WA,,,Series C,No,No
+Dr. Tyler Rogers,Director of Drug Safety Evaluation,Arsenal Biosciences,t.rogers@arsenalbio.com,,South San Francisco CA,South San Francisco CA,,,Series B,,Yes
+Dr. Brittany Reed,VP Safety Sciences,Umoja Biopharma,,,Remote - Oregon,Seattle WA,,,Series B,,No
+Dr. Jordan Cook,Principal Scientist - Hepatotoxicity,Century Therapeutics,j.cook@centurytx.com,215-555-0789,Philadelphia PA,Philadelphia PA,Liver Organoids for CAR-T Safety Assessment,2023,Series C,Yes,No
+Dr. Taylor Morgan,Director of Preclinical Safety,Allogene Therapeutics,,,South San Francisco CA,South San Francisco CA,,,Public,Yes,Yes
+Dr. Alexandra Bell,Head of ADME/Tox,Lyell Immunopharma,a.bell@lyell.com,650-555-0234,South San Francisco CA,South San Francisco CA,,,Series C,No,Yes
+Dr. Nathan Murphy,Senior Director - In Vitro Models,Vor Biopharma,n.murphy@vorbio.com,,Cambridge MA,Cambridge MA,,,Series B,Yes,Yes
+Dr. Victoria Bailey,Director of Safety Assessment,Precision BioSciences,v.bailey@precisionbiosciences.com,919-555-0567,Durham NC,Durham NC,3D Models for Gene Editing Toxicity,2024,Public,Yes,No
+Dr. Dylan Rivera,VP Toxicology,TCR2 Therapeutics,,,Cambridge MA,Cambridge MA,,,Series C,,Yes
+Dr. Gabriella Cooper,Principal Toxicologist,Adaptimmune,g.cooper@adaptimmune.com,215-555-0890,Philadelphia PA,Oxfordshire UK,,,Public,Yes,No
