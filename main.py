@@ -43,7 +43,7 @@ if run_button:
         company=company_filter if company_filter else None
     )
 
-    identified_df = stage1.identification("C:/Users/hp333/Desktop/lead_generator/data/people_pool.csv")
+    identified_df = stage1.identification("data/people_pool.csv")
 
     if identified_df is None or identified_df.empty:
         st.warning("No leads identified with current filters.")
@@ -55,7 +55,7 @@ if run_button:
     stage2 = stage2()
     enriched_df, not_found = stage2.find_more_details(
         identified_df,
-        "C:/Users/hp333/Desktop/lead_generator/data/leads.csv"
+        "data/leads.csv"
     )
     enriched_df.dropna(axis = 1, how = "all", inplace = True)
     enriched_df.reset_index(inplace=True)
